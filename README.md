@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utsavupadhyayER
 - 👀 I’m interested in Data Structures & Algorithms and Web Development.
-- 🌱 I’m currently learning javascript and working on DSA mastery.
+- 🌱 I’m currently building projects and working on DSA mastery.
 - 💞️ I’m looking to collaborate on exciting web projects & open-source contributions.
 - 📫 How to reach me @utsavupadhyayER , utsavsnehil@gmail.com
 - 😄 Pronouns: he/him
